@@ -1,0 +1,29 @@
+{
+  "name": "testnode",
+  "version": "1.0.0",
+  "description": "node",
+  "main": "test.js",
+  "scripts": {
+    "start": "node test.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mykolasenyuk/testnode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mykolasenyuk/testnode/issues"
+  },
+  "homepage": "https://github.com/mykolasenyuk/testnode#readme",
+  "dependencies": {
+    "cross-env": "^7.0.3",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "keywords": []
+}
